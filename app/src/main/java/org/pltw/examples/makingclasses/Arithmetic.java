@@ -30,5 +30,16 @@ public class Arithmetic {
         return (double) mOperand1 / (double) mOperand2;
     }
 
-
+    public static int add(int operand1, int operand2){
+        return operand1 + operand2;
+    }
+    public static int subtract(int operand1, int operand2){
+        return operand1 + operand2;
+    }
+    public static int multiply(int operand1, int operand2){
+        return operand1 + operand2;
+    }
+    public static int divide(int operand1, int operand2){
+        return operand1 + operand2;
+    }
 }
